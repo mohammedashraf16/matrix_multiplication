@@ -1,3 +1,5 @@
+The idea of the project:
+    Our work is a project for multiplyieng two (n*n) matrixes
 How to use this project:
   
     At first, a message appears to user asking to enter the number of rows and columns of the two matrixes
